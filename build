@@ -1,0 +1,4 @@
+ocamlfind ocamlopt bumpkin.ml -o bumpkin -linkpkg \
+  -package netstring \
+  -package netcgi2 \
+  -package netclient 
