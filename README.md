@@ -1,4 +1,4 @@
-bumpkin - html and css embedded in OCaml
+bumpkin
 =======
 
 The beginnings of a quickly aborted experiment in writing an OCaml web framework. 
